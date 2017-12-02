@@ -1,0 +1,8 @@
+E:\Projects\Prg_on_MVS\krasnovskaya\Lab_WCF\BooksWCFServiceLib\BookClient\bin\Debug\BookClient.exe.config
+E:\Projects\Prg_on_MVS\krasnovskaya\Lab_WCF\BooksWCFServiceLib\BookClient\bin\Debug\BookClient.exe
+E:\Projects\Prg_on_MVS\krasnovskaya\Lab_WCF\BooksWCFServiceLib\BookClient\bin\Debug\BookClient.pdb
+E:\Projects\Prg_on_MVS\krasnovskaya\Lab_WCF\BooksWCFServiceLib\BookClient\bin\Debug\BooksWCFServiceLib.dll
+E:\Projects\Prg_on_MVS\krasnovskaya\Lab_WCF\BooksWCFServiceLib\BookClient\bin\Debug\BooksWCFServiceLib.pdb
+E:\Projects\Prg_on_MVS\krasnovskaya\Lab_WCF\BooksWCFServiceLib\BookClient\obj\Debug\BookClient.csprojResolveAssemblyReference.cache
+E:\Projects\Prg_on_MVS\krasnovskaya\Lab_WCF\BooksWCFServiceLib\BookClient\obj\Debug\BookClient.exe
+E:\Projects\Prg_on_MVS\krasnovskaya\Lab_WCF\BooksWCFServiceLib\BookClient\obj\Debug\BookClient.pdb

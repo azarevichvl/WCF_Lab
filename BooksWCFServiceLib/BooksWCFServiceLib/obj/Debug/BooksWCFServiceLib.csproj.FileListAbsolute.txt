@@ -1,0 +1,5 @@
+E:\Projects\Prg_on_MVS\krasnovskaya\Lab_WCF\BooksWCFServiceLib\BooksWCFServiceLib\bin\Debug\BooksWCFServiceLib.dll.config
+E:\Projects\Prg_on_MVS\krasnovskaya\Lab_WCF\BooksWCFServiceLib\BooksWCFServiceLib\bin\Debug\BooksWCFServiceLib.dll
+E:\Projects\Prg_on_MVS\krasnovskaya\Lab_WCF\BooksWCFServiceLib\BooksWCFServiceLib\bin\Debug\BooksWCFServiceLib.pdb
+E:\Projects\Prg_on_MVS\krasnovskaya\Lab_WCF\BooksWCFServiceLib\BooksWCFServiceLib\obj\Debug\BooksWCFServiceLib.dll
+E:\Projects\Prg_on_MVS\krasnovskaya\Lab_WCF\BooksWCFServiceLib\BooksWCFServiceLib\obj\Debug\BooksWCFServiceLib.pdb
